@@ -1,0 +1,30 @@
+.privacy {
+  min-height: calc(100vh - 160px);
+  padding: 4rem 2rem;
+  background: #f5f5f5;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.container h1 {
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+
+.container h2 {
+  color: #667eea;
+  margin: 1.5rem 0 0.5rem;
+}
+
+.container p {
+  color: #666;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
